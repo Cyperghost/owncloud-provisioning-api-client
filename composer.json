@@ -1,5 +1,5 @@
 {
-  "name": "arnovr/owncloud-provisioning-api-client",
+  "name": "cyperghost/owncloud-provisioning-api-client",
   "description": "This is a client to handle the owncloud provisioning api with.",
   "license": "MIT",
   "type": "project",
