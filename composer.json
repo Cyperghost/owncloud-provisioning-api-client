@@ -3,7 +3,7 @@
   "description": "This is a client to handle the owncloud provisioning api with.",
   "license": "MIT",
   "type": "project",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "minimum-stability": "dev",
   "prefer-stable" : true,
   "authors": [
