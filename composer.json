@@ -2,6 +2,9 @@
   "name": "arnovr/owncloud-provisioning-api-client",
   "description": "This is a client to handle the owncloud provisioning api with.",
   "license": "MIT",
+  "type": "project",
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
   "authors": [
     {
       "name": "Arno van Rossum",
